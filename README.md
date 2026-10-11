@@ -13,7 +13,7 @@ I'll be uploading my projects soon. Once they're uploaded, feel free to explore 
 
 ## ⚠️ Vulnerability Management Projects
 
-- [Vulnerability Management Program Implementation] (https://github.com/leomajaducon/vulnerability-management-implementation)
+- [Vulnerability Management Program Implementation](https://github.com/leomajaducon/vulnerability-management-implementation)
 
 
 <hr/>
