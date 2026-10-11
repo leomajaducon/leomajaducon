@@ -8,17 +8,13 @@ I'm continuously developing my skills through hands-on projects, practical labs,
 
 This repository serves as a collection of my projects, technical explorations, and ongoing journey in cybersecurity.
 
-Feel free to explore my work, and let's build stronger security defenses together! 🛡️
+I'll be uploading my projects soon. Once they're uploaded, feel free to explore my work, and let's build stronger security defenses together! 🛡️
 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]**
+- Vulnerability Management Program Implementation (Under Construction)
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)]**
 
 <hr/>
 
