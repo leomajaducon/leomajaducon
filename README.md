@@ -14,6 +14,7 @@ I'll be uploading my projects soon. Once they're uploaded, feel free to explore 
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/leomajaducon/vulnerability-management-implementation)
+- [DISA-STIG Implementation and Remediation for Audit Compliance](https://github.com/leomajaducon/disa-stig-remediation-windows11)
 
 
 <hr/>
